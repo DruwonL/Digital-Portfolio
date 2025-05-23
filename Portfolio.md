@@ -1,9 +1,5 @@
-# druwon.github.io
-# Work Readiness Digital Portfolio  
-**Student Name:** Druwon Lashawa  
-**Subject:** Work Readiness Training  
-**Date:** May 2025
 
+Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
 ---
 
 ## 1. Career Counselling
@@ -11,7 +7,7 @@
 ### Evidence  
 - Summary of career counselling session: Discussed career options in Multimedia IT and UX/UI design.  
 - Screenshot of the online career assessment results.  
-- Link to career counselling feedback form: [Feedback Form](https://example.com/feedback)
+- Link to career counselling feedback form: [Feedback Form]([https://example.com/feedback](https://www.16personalities.com/profiles/intj-a/m/6e8efsiot))
 
 ### Reflection (STAR Technique)  
 **Situation:** I attended a career counselling session to explore my career options in IT and design.  
