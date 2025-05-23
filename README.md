@@ -69,11 +69,15 @@ I was able to better define my career objectives, understand my personality and 
 
 [Click here to see prototype](https://www.figma.com/proto/cw8xaHCOp1IXYD40fXYz4A/EcoMarket-Design-System?node-id=1-2&starting-point-node-id=1%3A2&t=ffh6Qc93zWKdJwmQ-1)
 
+A mobile marketplace created to encourage environmentally friendly purchasing practices. where fruit, including pineapples, apples, and lake bannnas, are being advertised.
+
 ![EcoMarket Design System](https://github.com/user-attachments/assets/7d5476e2-7bdc-4dc1-931b-540fc405c05f)
 
 ### Secure Aware App:
 
 [Click here to see prototype](https://www.figma.com/proto/FbV0x9GT3vtdlyeZOxMQs2/Secure-Aware?node-id=1-4&p=f&t=otNAIXkNjHt7SRyv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+A smartphone app called "Secure Aware" aims to encourage safe behaviour and increase people's knowledge of privacy and security issues. Secure Aware seeks to address the problem of human error in information security by providing interactive training modules, real-time threat alerts, and learning-enhancing interactive challenges.
 
 ![Secure Aware](https://github.com/user-attachments/assets/875dd761-26f8-4f16-aac1-cb4cb88697e3)
 ---
@@ -81,5 +85,5 @@ I was able to better define my career objectives, understand my personality and 
 ## Contact
 
 Email: druwon.lashawa.wicomb@gmail.com  
-GitHub: [github.com/druwon]([https://github.com/druwon](https://github.com/DruwonL/work-readiness-portfolio/))  
+GitHub: [github.com/druwon](https://github.com/DruwonL/work-readiness-portfolio/)  
 LinkedIn: [linkedin.com/in/druwon](www.linkedin.com/in/druwon-lashawa-b35654237)
