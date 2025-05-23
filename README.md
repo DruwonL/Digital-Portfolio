@@ -50,7 +50,7 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 ## 5. CV Submission
 
-
+![Submitted to LinkedIn](https://github.com/user-attachments/assets/1b35c318-eddc-403e-a51a-e26a3506baf3)
 
 **S:** I submitted my CV for internship opportunities and university requirements.  
 **T:** To ensure timely submission and proper formatting of my CV.  
@@ -61,9 +61,10 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 ## Conclusion
 
-The work readiness training helped me gain clarity on my career goals, understand my skills and personality, and prepare professional documents like my CV. The structured reflections made me more aware of my learning journey and growth areas. I am now confident and ready to pursue my career in multimedia and UX/UI design.
+I was able to better define my career objectives, understand my personality and skill set, and create professional documents like my resume thanks to the work readiness training. I became more aware of my learning path and places for improvement as a result of the structured reflections. I am now self-assured and prepared to pursue a career in UX/UI design and multimedia.
 
-## LinkedIn Certificates:
+## Figma Designs:
+
 
 
 ---
