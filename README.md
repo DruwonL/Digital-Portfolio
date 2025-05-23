@@ -63,7 +63,7 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 I was able to better define my career objectives, understand my personality and skill set, and create professional documents like my resume thanks to the work readiness training. I became more aware of my learning path and places for improvement as a result of the structured reflections. I am now self-assured and prepared to pursue a career in UX/UI design and multimedia.
 
-## Figma Designs:
+## Figma Wirefame Projects:
 
 ### Ecomarket App:
 
@@ -81,6 +81,9 @@ A smartphone app called "Secure Aware" aims to encourage safe behaviour and incr
 
 ![Secure Aware](https://github.com/user-attachments/assets/875dd761-26f8-4f16-aac1-cb4cb88697e3)
 ---
+## Website Projects:
+
+
 
 ## Contact
 
