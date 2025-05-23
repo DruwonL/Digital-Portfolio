@@ -41,18 +41,20 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 [Druwon CV.pdf](https://github.com/user-attachments/files/20405563/Druwon.CV.pdf)
 
-**S:** I created a professional CV to apply for internships in the multimedia field.  
-**T:** To highlight my education, skills, and projects effectively.  
-**A:** I researched CV best practices, used a clean design, and proofread multiple times.  
-**R:** I have a polished CV that received positive feedback from my mentor.
+**S:** I made a polished resume in order to apply for multimedia internships. 
+**T:** To successfully showcase my projects, abilities, and education.  
+**A:** I looked up best practices for CVs, employed a simple layout, and proofread several times.   
+**R:** My mentor gave my well-written resume excellent feedback.
 
 ---
 
 ## 5. CV Submission
 
+
+
 **S:** I submitted my CV for internship opportunities and university requirements.  
 **T:** To ensure timely submission and proper formatting of my CV.  
-**A:** I double-checked the file format, wrote a brief cover email, and submitted via Blackboard and email.  
+**A:** I double-checked the file format and submitted via Blackboard and email.  
 **R:** My CV was successfully submitted on time, and I received acknowledgment from the employer.
 
 ---
