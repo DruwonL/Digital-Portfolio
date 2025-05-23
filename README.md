@@ -41,10 +41,10 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 [Druwon CV.pdf](https://github.com/user-attachments/files/20405563/Druwon.CV.pdf)
 
-**S:** I made a polished resume in order to apply for multimedia internships. 
-**T:** To successfully showcase my projects, abilities, and education.  
-**A:** I looked up best practices for CVs, employed a simple layout, and proofread several times.   
-**R:** My mentor gave my well-written resume excellent feedback.
+- **S:** I made a polished resume in order to apply for multimedia internships. 
+- **T:** To successfully showcase my projects, abilities, and education.  
+- **A:** I looked up best practices for CVs, employed a simple layout, and proofread several times.   
+- **R:** My mentor gave my well-written resume excellent feedback.
 
 ---
 
