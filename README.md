@@ -23,6 +23,7 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 **Action:** I analyzed the assessment results and researched courses to improve weak areas.  
 **Result:** I enrolled in a UX design course and practiced creating user-friendly interfaces.
 
+![Image](https://github.com/user-attachments/assets/4fe29831-fe96-4573-88e2-23de4dd12328)
 ---
 
 ## 3. Personality Assessment
