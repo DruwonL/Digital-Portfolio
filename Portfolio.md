@@ -1,10 +1,9 @@
-Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
+#Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
 ---
 
 ## 1. Career Counselling
 
 ### Evidence  
-- Summary of career counselling session: Discussed career options in Multimedia IT and UX/UI design.  
 - Screenshot of the online career assessment results.  
 - Link to career counselling feedback form: [Feedback Form]([https://example.com/feedback](https://www.16personalities.com/profiles/intj-a/m/6e8efsiot))
 
