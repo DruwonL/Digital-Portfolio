@@ -1,4 +1,4 @@
-# Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
+### Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
 ---
 
 ## 1. Career Counselling
@@ -8,10 +8,10 @@
 - Link to career counselling feedback form: [Feedback Form]([https://example.com/feedback](https://www.16personalities.com/profiles/intj-a/m/6e8efsiot))
 
 ### Reflection (STAR Technique)  
-**Situation:** I attended a career counselling session to explore my career options in IT and design.  
-**Task:** My objective was to gain clarity on potential career paths and required skills.  
-**Action:** I participated actively, completed self-assessment tests, and asked questions about industry requirements.  
-**Result:** I identified UX/UI design as a suitable path and created a learning plan to improve my skills in this area.
+**S:** I attended a career counselling session to explore my career options in IT and design.  
+**T:** My objective was to gain clarity on potential career paths and required skills.  
+**A:** I participated actively, completed self-assessment tests, and asked questions about industry requirements.  
+**R:** I identified UX/UI design as a suitable path and created a learning plan to improve my skills in this area.
 [Screenshot of the Test] git add your-image.jpg 
 ---
 
