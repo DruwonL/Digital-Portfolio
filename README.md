@@ -37,6 +37,7 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 **Action:** I reviewed the results and reflected on past experiences working in teams.  
 **Result:** I recognized my strengths in empathy and creativity, which help me in design projects.
 
+![Image](https://github.com/user-attachments/assets/045bacac-fd10-4ba9-8ace-a0669452540d)
 ---
 
 ## 4. Create a CV
