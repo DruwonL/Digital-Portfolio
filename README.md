@@ -4,16 +4,16 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 ## 1. Career Counselling
 
-**S:** I attended a career counselling session to explore my career options in IT and design.
-**T:** Outlining possible job choices and necessary abilities was my goal.
-**A:** I asked questions concerning industry requirements, finished self-assessment tests, and actively participated.
-**R:** I decided that UX/UI design would be a good career route, and I made a study plan to advance my knowledge in this field.
+- **S:** I attended a career counselling session to explore my career options in IT and design.
+- **T:** Outlining possible job choices and necessary abilities was my goal.
+- **A:** I asked questions concerning industry requirements, finished self-assessment tests, and actively participated.
+- **R:** I decided that UX/UI design would be a good career route, and I made a study plan to advance my knowledge in this field.
 
 ---
 
 ## 2. Skills and Interests
 
-[Personality](https://www.16personalities.com/profiles/intj-a/m/6e8efsiot)
+[Results](https://www.16personalities.com/profiles/intj-a/m/6e8efsiot)
 
 - Adobe Photoshop.  
 - Figma. 
