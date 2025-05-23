@@ -81,6 +81,6 @@ The work readiness training helped me gain clarity on my career goals, understan
 
 ## Contact
 
-Email: druwon@example.com  
-GitHub: [github.com/druwon](https://github.com/druwon)  
-LinkedIn: [linkedin.com/in/druwon](https://linkedin.com/in/druwon)
+Email: druwon.lashawa.wicomb@gmail.com  
+GitHub: [github.com/druwon]([https://github.com/druwon](https://github.com/DruwonL/work-readiness-portfolio/))  
+LinkedIn: [linkedin.com/in/druwon](www.linkedin.com/in/druwon-lashawa-b35654237)
