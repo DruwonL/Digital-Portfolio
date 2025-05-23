@@ -75,7 +75,7 @@ I was able to better define my career objectives, understand my personality and 
 
 [Click here to see prototype](https://www.figma.com/proto/FbV0x9GT3vtdlyeZOxMQs2/Secure-Aware?node-id=1-4&p=f&t=otNAIXkNjHt7SRyv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-
+![Secure Aware](https://github.com/user-attachments/assets/875dd761-26f8-4f16-aac1-cb4cb88697e3)
 ---
 
 ## Contact
