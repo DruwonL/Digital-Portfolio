@@ -12,7 +12,7 @@
 **Task:** My objective was to gain clarity on potential career paths and required skills.  
 **Action:** I participated actively, completed self-assessment tests, and asked questions about industry requirements.  
 **Result:** I identified UX/UI design as a suitable path and created a learning plan to improve my skills in this area.
-
+[Screenshot of the Test](/assets/images/Personality Test.png)
 ---
 
 ## 2. Skills and Interests
