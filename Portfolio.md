@@ -1,4 +1,4 @@
-#Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.
+#Hi, I'm Druwon Lashawa, a UX/UI designer and multimedia specialist that is passionate about creating impactful digital experiences.#
 ---
 
 ## 1. Career Counselling
