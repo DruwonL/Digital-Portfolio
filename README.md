@@ -39,7 +39,7 @@ I'm a UX/UI designer and multimedia specialist that is passionate about creating
 
 ## 4. My CV
 
-
+[Druwon CV.pdf](https://github.com/user-attachments/files/20405563/Druwon.CV.pdf)
 
 **S:** I created a professional CV to apply for internships in the multimedia field.  
 **T:** To highlight my education, skills, and projects effectively.  
